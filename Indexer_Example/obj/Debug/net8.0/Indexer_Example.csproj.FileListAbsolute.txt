@@ -1,0 +1,14 @@
+D:\ConsoleApps\Indexer_Example\bin\Debug\net8.0\Indexer_Example.exe
+D:\ConsoleApps\Indexer_Example\bin\Debug\net8.0\Indexer_Example.deps.json
+D:\ConsoleApps\Indexer_Example\bin\Debug\net8.0\Indexer_Example.runtimeconfig.json
+D:\ConsoleApps\Indexer_Example\bin\Debug\net8.0\Indexer_Example.dll
+D:\ConsoleApps\Indexer_Example\bin\Debug\net8.0\Indexer_Example.pdb
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\Indexer_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\Indexer_Example.AssemblyInfoInputs.cache
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\Indexer_Example.AssemblyInfo.cs
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\Indexer_Example.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\Indexer_Example.dll
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\refint\Indexer_Example.dll
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\Indexer_Example.pdb
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\Indexer_Example.genruntimeconfig.cache
+D:\ConsoleApps\Indexer_Example\obj\Debug\net8.0\ref\Indexer_Example.dll

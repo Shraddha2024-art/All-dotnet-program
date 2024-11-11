@@ -1,0 +1,4 @@
+namespace AttributeClass
+{
+    [AttributeUsage(attribute)]
+}

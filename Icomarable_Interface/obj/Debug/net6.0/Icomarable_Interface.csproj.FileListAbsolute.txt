@@ -1,0 +1,14 @@
+D:\ConsoleApps\Icomarable_Interface\bin\Debug\net6.0\Icomarable_Interface.exe
+D:\ConsoleApps\Icomarable_Interface\bin\Debug\net6.0\Icomarable_Interface.deps.json
+D:\ConsoleApps\Icomarable_Interface\bin\Debug\net6.0\Icomarable_Interface.runtimeconfig.json
+D:\ConsoleApps\Icomarable_Interface\bin\Debug\net6.0\Icomarable_Interface.dll
+D:\ConsoleApps\Icomarable_Interface\bin\Debug\net6.0\Icomarable_Interface.pdb
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\Icomarable_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\Icomarable_Interface.AssemblyInfoInputs.cache
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\Icomarable_Interface.AssemblyInfo.cs
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\Icomarable_Interface.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\Icomarable_Interface.dll
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\refint\Icomarable_Interface.dll
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\Icomarable_Interface.pdb
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\Icomarable_Interface.genruntimeconfig.cache
+D:\ConsoleApps\Icomarable_Interface\obj\Debug\net6.0\ref\Icomarable_Interface.dll

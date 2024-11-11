@@ -1,0 +1,14 @@
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\DelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\DelegateEvent.AssemblyInfoInputs.cache
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\DelegateEvent.AssemblyInfo.cs
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\DelegateEvent.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\DelegateEvent\bin\Debug\net8.0\DelegateEvent.exe
+D:\ConsoleApps\DelegateEvent\bin\Debug\net8.0\DelegateEvent.deps.json
+D:\ConsoleApps\DelegateEvent\bin\Debug\net8.0\DelegateEvent.runtimeconfig.json
+D:\ConsoleApps\DelegateEvent\bin\Debug\net8.0\DelegateEvent.dll
+D:\ConsoleApps\DelegateEvent\bin\Debug\net8.0\DelegateEvent.pdb
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\DelegateEvent.dll
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\refint\DelegateEvent.dll
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\DelegateEvent.pdb
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\DelegateEvent.genruntimeconfig.cache
+D:\ConsoleApps\DelegateEvent\obj\Debug\net8.0\ref\DelegateEvent.dll

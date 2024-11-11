@@ -1,0 +1,11 @@
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\ExtensionLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\ExtensionLib.AssemblyInfoInputs.cache
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\ExtensionLib.AssemblyInfo.cs
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\ExtensionLib.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\ExtensionLib\bin\Debug\net8.0\ExtensionLib.deps.json
+D:\ConsoleApps\ExtensionLib\bin\Debug\net8.0\ExtensionLib.dll
+D:\ConsoleApps\ExtensionLib\bin\Debug\net8.0\ExtensionLib.pdb
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\ExtensionLib.dll
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\refint\ExtensionLib.dll
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\ExtensionLib.pdb
+D:\ConsoleApps\ExtensionLib\obj\Debug\net8.0\ref\ExtensionLib.dll

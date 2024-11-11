@@ -1,0 +1,14 @@
+D:\ConsoleApps\Parsal_Class_Demo\bin\Debug\net8.0\Parsal_Class_Demo.exe
+D:\ConsoleApps\Parsal_Class_Demo\bin\Debug\net8.0\Parsal_Class_Demo.deps.json
+D:\ConsoleApps\Parsal_Class_Demo\bin\Debug\net8.0\Parsal_Class_Demo.runtimeconfig.json
+D:\ConsoleApps\Parsal_Class_Demo\bin\Debug\net8.0\Parsal_Class_Demo.dll
+D:\ConsoleApps\Parsal_Class_Demo\bin\Debug\net8.0\Parsal_Class_Demo.pdb
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\Parsal_Class_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\Parsal_Class_Demo.AssemblyInfoInputs.cache
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\Parsal_Class_Demo.AssemblyInfo.cs
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\Parsal_Class_Demo.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\Parsal_Class_Demo.dll
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\refint\Parsal_Class_Demo.dll
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\Parsal_Class_Demo.pdb
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\Parsal_Class_Demo.genruntimeconfig.cache
+D:\ConsoleApps\Parsal_Class_Demo\obj\Debug\net8.0\ref\Parsal_Class_Demo.dll

@@ -1,0 +1,14 @@
+D:\ConsoleApps\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.exe
+D:\ConsoleApps\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.deps.json
+D:\ConsoleApps\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.runtimeconfig.json
+D:\ConsoleApps\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.dll
+D:\ConsoleApps\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.pdb
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfo.cs
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.dll
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\refint\OperatorOverloading.dll
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.pdb
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.genruntimeconfig.cache
+D:\ConsoleApps\OperatorOverloading\obj\Debug\net8.0\ref\OperatorOverloading.dll

@@ -1,0 +1,14 @@
+D:\ConsoleApps\Assignment\bin\Debug\net8.0\Assignment.exe
+D:\ConsoleApps\Assignment\bin\Debug\net8.0\Assignment.deps.json
+D:\ConsoleApps\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+D:\ConsoleApps\Assignment\bin\Debug\net8.0\Assignment.dll
+D:\ConsoleApps\Assignment\bin\Debug\net8.0\Assignment.pdb
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\Assignment.dll
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\Assignment.pdb
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+D:\ConsoleApps\Assignment\obj\Debug\net8.0\ref\Assignment.dll

@@ -1,0 +1,5 @@
+D:\ConsoleApps\MylibSecond\obj\Debug\net8.0\MylibSecond.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\MylibSecond\obj\Debug\net8.0\MylibSecond.AssemblyInfoInputs.cache
+D:\ConsoleApps\MylibSecond\obj\Debug\net8.0\MylibSecond.AssemblyInfo.cs
+D:\ConsoleApps\MylibSecond\obj\Debug\net8.0\MylibSecond.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\MylibSecond\obj\Debug\net8.0\MylibSecond.csproj.AssemblyReference.cache

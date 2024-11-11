@@ -1,0 +1,62 @@
+namespace Collection_Demo
+{
+    internal class Program
+    {
+        static void Main(string[]arg)
+        {
+            int[] marks = {23,34,56,78,6,23,12};
+            ArryList myarrlist = new ArryList();
+            myarrlist.Add(10);
+            myarrlist.Add("India");
+            myarrlist.Add(DateTime.Now);
+            myarrlist.Add(true);
+            myarrlist.Add(0.5674);
+            myarrlist.Add(7.76);
+            myarrlist.Add('r');
+            myarrlist.AddRange(marks);
+
+           
+           foreach(var o is myarrlist)
+           {
+            Console.WriteLine(o);
+           }
+            Stack mystk = new Stack();
+            mystk.push(10);
+            mystk.push("yash");
+            mystk.push(1.34f);
+            mystk.push(DataTime.Now);
+            mystk.push(true);
+            Console.WriteLine("Stack has "+mystk.Count+ "item");
+        try
+         {
+            Console.WriteLine(mystk.Peek());
+            Console.WriteLine(mystk.Pop());
+            Console.WriteLine(mystk.Pop());
+            Console.WriteLine(mystk.Pop());
+            Console.WriteLine(mystk.Pop()); 
+            Console.WriteLine(mystk.Pop());
+            Console.WriteLine(mystk.Pop());
+         }
+
+         catch(Exception ex)
+         {
+            Console.WriteLine(ex.Message);
+         }
+//Non generic Queue (FIFO: Fist in frist Out)
+         
+         Queue myqueue = new Queue();
+         myqueue.Enqueue(10);
+         myqueue.Enqueue("jai Bharat");
+         myqueue.Enqueue(67.54);
+         myqueue.Enqueue(10);
+         myqueue.Enqueue(10);
+         myqueue.Enqueue(10);
+         myqueue.Enqueue(10);
+         myqueue.Enqueue(10);
+
+
+
+
+      }
+    }
+}
